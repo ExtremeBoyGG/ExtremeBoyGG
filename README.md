@@ -4,20 +4,20 @@
 ### Perkenalkan diri saya
 ![](https://visitor-badge.glitch.me/badge?page_id=ExtremeBoyGG)
 
-Saya ExtremeBoy tinggal di Padangsidimpuan, Sumatera Utara. Saya suka programming, apalagi dalam bahasa python.
+Saya ExtremeBoy tinggal di Medan, Sumatera Utara, Indonesia. Saya suka programming, apalagi dalam bahasa python.
 Bisa dibilang saya telah menguasai bahasa python, saya sedang tahap pengembangan untuk lebih jauh lagi.
 
 Menghabiskan waktu dengan komputer dirumah. Tidak terlalu suka dengam keramaian, bisa dibilang introvert. Kita hidup di masa depan, kita akan mengubah dunia menjadi jauh lebih mudah dan canggih.
 
 ### Bahasa yang Dikuasai <img src="https://media.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" width="25">
-• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/python.png?raw=true" width="21"> Python
-• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/C.png?raw=true" width="21"> C
-• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/php-logo.png?raw=true" width="21"> PHP
+• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/python.png?raw=true" width="21"> Python <br>
+• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/C.png?raw=true" width="21"> C <br>
+• <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/php-logo.png?raw=true" width="21"> PHP <br>
 
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ExtremeBoyGG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeBoyGG&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
