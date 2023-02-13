@@ -14,7 +14,7 @@ Menghabiskan waktu dengan komputer dirumah. Tidak terlalu suka dengam keramaian,
 • <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/python.png?raw=true" width="21"> Python <br>
 • <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/C.png?raw=true" width="21"> C <br>
 • <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/php-logo.png?raw=true" width="21"> PHP <br>
-
+<br>
 
 📈 **My GitHub Stats:**
 
