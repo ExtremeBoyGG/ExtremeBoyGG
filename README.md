@@ -4,7 +4,7 @@
 ### Perkenalkan diri saya
 ![](https://visitor-badge.glitch.me/badge?page_id=ExtremeBoyGG)
 
-<p align="center"> <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/IMG_20230120_180014.jpg" width="60%" style="border-radius: 50%"> </p>
+<p align="center"> <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/1669104565-pics-picsay.png" width="60%" style="border-radius: 50%"> </p>
 Saya ExtremeBoy tinggal di Medan, Sumatera Utara, Indonesia. Saya suka programming, apalagi dalam bahasa python.
 Bisa dibilang saya telah menguasai bahasa python, saya sedang tahap pengembangan untuk lebih jauh lagi.
 
