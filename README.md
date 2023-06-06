@@ -2,7 +2,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/ExtremeBoy.GGUser/)
 
 ### Perkenalkan diri saya
-![](https://visitor-badge.glitch.me/badge?page_id=ExtremeBoyGG)
+![](https://api.visitorbadge.io/api/visitors?path=ExtremeBoyGG&countColor=%230096ff&style=flat-square)
 
 <p align="center"> <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/1669104565-pics-picsay.png" width="60%" style="border-radius: 50%"> </p>
 Saya ExtremeBoy tinggal di Medan, Sumatera Utara, Indonesia. Saya suka programming, apalagi dalam bahasa python.
