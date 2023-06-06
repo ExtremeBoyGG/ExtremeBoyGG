@@ -4,7 +4,7 @@
 ### Perkenalkan diri saya
 ![](https://api.visitorbadge.io/api/visitors?path=ExtremeBoyGG&countColor=%230096ff&style=flat-square)
 
-<p align="center"> <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/1669104565-pics-picsay.png" width="60%" style="border-radius: 50%"> </p>
+<p align="center"> <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/1669104565-pics-picsay.png" width="40%" style="border-radius: 50%"> </p>
 Saya ExtremeBoy tinggal di Medan, Sumatera Utara, Indonesia. Saya suka programming, apalagi dalam bahasa python.
 Bisa dibilang saya telah menguasai bahasa python, saya sedang tahap pengembangan untuk lebih jauh lagi.
 
