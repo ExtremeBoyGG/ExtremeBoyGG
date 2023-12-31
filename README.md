@@ -12,7 +12,7 @@ Menghabiskan waktu dengan komputer dirumah. Tidak terlalu suka dengam keramaian,
 
 ### Contact Me
 [Facebook](https://facebook.com/ExtremeBoyGG.User)
-![Email](mailto:extremeboybot@gmail.com)
+[Email](mailto:extremeboybot@gmail.com)
 
 ### Bahasa yang Dikuasai <img src="https://media.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" width="25">
 • <img src="https://github.com/ExtremeBoyGG/ExtremeBoyGG/blob/master/blob/python.png?raw=true" width="21"> Python <br>
