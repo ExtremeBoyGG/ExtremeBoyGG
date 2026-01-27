@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+👋+I'm+ExtremeBoy;Python+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
-<img src="https://count.getloli.com/@ExtremeBoy?name=ExtremeBoy&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Visitor Count" />
+<img src="https://count.getloli.com/@ExtremeBoy?name=ExtremeBoy&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Visitor Count" />
 
 </div>
 
